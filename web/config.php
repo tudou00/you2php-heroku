@@ -5,5 +5,5 @@ define('GJ_CODE', 'US');
 define('SITE_NAME','tube');
 define('TITLENAME', 'tube');
 define('EN2DEKEY','aasdioeekkdlsfeefe');
-define('EMAIL', '123@456.com');
+define('EMAIL', 'hi.tudou@gmail.com');
 ?>
